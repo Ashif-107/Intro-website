@@ -17,9 +17,11 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 .box-img{
-    border-radius: 50%;
     width: 200px;
     height: 200px;
+}
+.box-img:hover{
+    border-radius: 50%
 }
 .box h1{
     font-size: 40px;
